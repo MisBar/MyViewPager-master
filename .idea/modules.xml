@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyViewPager-master.iml" filepath="$PROJECT_DIR$/MyViewPager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycardview/mycardview.iml" filepath="$PROJECT_DIR$/mycardview/mycardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrecyclerview/myrecyclerview.iml" filepath="$PROJECT_DIR$/myrecyclerview/myrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrefreshview/myrefreshview.iml" filepath="$PROJECT_DIR$/myrefreshview/myrefreshview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myscrollview/myscrollview.iml" filepath="$PROJECT_DIR$/myscrollview/myscrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytablayout/mytablayout.iml" filepath="$PROJECT_DIR$/mytablayout/mytablayout.iml" />
+    </modules>
+  </component>
+</project>
